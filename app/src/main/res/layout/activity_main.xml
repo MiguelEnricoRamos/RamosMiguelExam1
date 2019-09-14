@@ -27,8 +27,8 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="340dp"
-        android:layout_height="113dp"
+        android:layout_width="331dp"
+        android:layout_height="118dp"
         android:text="is an American actress. One of the highest-paid actresses in the world in 2015, she has received multiple awards, including an Academy Award, a Primetime Emmy Award, and a Golden Globe"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
         android:textColor="#8F8E24AA"
@@ -63,8 +63,8 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="326dp"
-        android:layout_height="80dp"
+        android:layout_width="327dp"
+        android:layout_height="90dp"
         android:text="is an American actress. The films she has acted in have grossed over $6 billion worldwide, and she was the highest-paid actress in the world in 2015 and 2016. Lawrence appeared in Time's 100 most influential people in the world list in 2013 and in the Forbes Celebrity 100 list in 2014 and 2016."
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
         android:textColor="#8F8E24AA"
@@ -150,8 +150,8 @@
 
     <TextView
         android:id="@+id/textView5"
-        android:layout_width="317dp"
-        android:layout_height="107dp"
+        android:layout_width="297dp"
+        android:layout_height="113dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:text=" is an American actress, filmmaker, and humanitarian. The recipient of such accolades as an Academy Award and three Golden Globe Awards, she has been named Hollywood's highest-paid actress multiple times."
@@ -161,10 +161,10 @@
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.348"
+        app:layout_constraintHorizontal_bias="0.198"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.54"
+        app:layout_constraintVertical_bias="0.526"
         tools:text=" is an American actress, filmmaker, and humanitarian. The recipient of such accolades as an Academy Award and three Golden Globe Awards, she has been named Hollywood's highest-paid actress multiple times." />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
